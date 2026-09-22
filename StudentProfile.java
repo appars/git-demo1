@@ -2,7 +2,7 @@ public class StudentProfile {
 
     public static void main(String[] args) {
 
-        String name = "Rahul";
+        String name = "Appar";
         String branch = "CSE";
         int semester = 5;
 
